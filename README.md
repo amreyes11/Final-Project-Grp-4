@@ -1,5 +1,7 @@
 # Epidemic Outbreaks in...
 
+![Diseases](https://user-images.githubusercontent.com/119356418/235584089-e217e9fd-391f-410a-a285-282cedfe0f5f.jpg)
+
 # Project Overview
 
 In this segment, the presentation deliverable includes the following:
@@ -9,6 +11,8 @@ In this segment, the presentation deliverable includes the following:
 	* A description of the data 
 	
 	* The questions that the team plans to answer with the project 
+
+As a group, we decided on delivering on such a topic as communicable diseases because we share similar interests and backgrounds.  This project will analyze and showcase trends and outbreaks in... 
 
 
 # Data Description

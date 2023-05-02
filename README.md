@@ -27,8 +27,9 @@ As a group, we decided on delivering on such a topic as communicable diseases be
 
 
 # Objectives
-	1. Analyze the trends of...
-	2. Create predictive model to forecast future outbreaks
+	1. Analyze the data...
+	2. Showcase visualizations of trends...
+	3. Create predictive model to forecast future outbreaks...
 	
 
 
@@ -47,6 +48,6 @@ As a group, we decided on delivering on such a topic as communicable diseases be
 
 
 
-# Questions the team plans to answer
+# Questions our team plans to answer
 
 

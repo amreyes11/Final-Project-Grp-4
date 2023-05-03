@@ -1,4 +1,4 @@
-# Epidemic Outbreaks in...
+# California County Poverty Levels Affecting Hospital Performance Ratings
 
 ![Diseases](https://user-images.githubusercontent.com/119356418/235584089-e217e9fd-391f-410a-a285-282cedfe0f5f.jpg)
 
@@ -12,10 +12,16 @@ In this segment, the presentation deliverable includes the following:
 	
 	* The questions that the team plans to answer with the project 
 
-As a group, we decided on delivering on such a topic as communicable diseases because we share similar interests and backgrounds.  This project will analyze and showcase trends and outbreaks in... 
+We will be analyzing California counties’ poverty levels with California counties, hospitals, and performance level based on hospital procedures performed between 2016-2020 to determine and evaluate if poverty levels correlate with hospital performance and how impactful it is.
+
+# Expectations
+	* We expect counties with higher cases of poverty to have lower performance ratings of hospital procedures performed compared to hospitals in counties with less cases of poverty.
+	* We expect to see a higher number of adverse cases and a higher risk adjusted rate in more poverty-ridden counties with worse hospital ratings than in less poverty-ridden counties.
 
 
 # Data Description
+	* California poverty by county
+	* California hospital rating by county
 
 
 # Team Members
@@ -46,8 +52,15 @@ As a group, we decided on delivering on such a topic as communicable diseases be
 	
 	* Reporting: Compose a comprehensive report summarizing the data analysis and predictive modeling results.
 
+# Resources we will be using
+	* Tableu
+	* Jupyter notebook/ Python
+	* Mlenv for machine learning 
+	* Time series evaluations
 
 
 # Questions our team plans to answer
+	* What effect, if any, did COVID make in hospital performance ratings in 2020?
+	* How does a county’s level of poverty affect a hospital procedure performance rating?
 
 

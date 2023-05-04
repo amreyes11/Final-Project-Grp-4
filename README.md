@@ -1,6 +1,7 @@
 # California County Poverty Levels Affecting Hospital Performance Ratings
 
-![Diseases](https://user-images.githubusercontent.com/119356418/235584089-e217e9fd-391f-410a-a285-282cedfe0f5f.jpg)
+![ratings](https://user-images.githubusercontent.com/119356418/236340784-ccbd842a-755d-4cdf-a6fa-aa115ec569b7.jpeg)
+
 
 # Project Overview
 

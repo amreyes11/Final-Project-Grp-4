@@ -60,7 +60,7 @@ We will be analyzing California counties’ poverty levels with California count
 
 
 # Questions our team plans to answer
-	* What effect, if any, did COVID make in hospital performance ratings in 2020?
-	* How does a county’s level of poverty affect a hospital procedure performance rating?
+	* How will California County hospitals perform when comparing a hospitals risk-adjusted outcome measure?
+	* How does a county’s percentage of poverty correlate to hospital procedure performance rating?
 
 

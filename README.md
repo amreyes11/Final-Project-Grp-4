@@ -26,24 +26,19 @@ We will be analyzing California counties’ poverty levels with California count
 
 
 # Objectives
-	1. Analyze the data...
-	2. Showcase visualizations of trends...
-	3. Create predictive model to forecast future outbreaks...
+	1. Analyze the data
+	2. Showcase visualizations of trends
+	3. Create predictive model to forecast future performance 
 	
 
 
 # Methodology
 * Data Exploration
-
 * Data Cleaning
-
 * Data Analysis
-
 * Predictive Modeling
-
-* Visualization: Communicate dynamic visualizations using Tableau to showcase key findings.
-
-* Reporting: Compose a comprehensive report summarizing the data analysis and predictive modeling results.
+* Visualization
+* Reporting
 
 # Resources we will be using
 * Tableu

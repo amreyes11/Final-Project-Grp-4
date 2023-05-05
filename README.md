@@ -5,14 +5,6 @@
 
 # Project Overview
 
-In this segment, the presentation deliverable includes the following:
-
-* The selected topic and the reasoning for that selection 
-
-* A description of the data 
-
-* The questions that the team plans to answer with the project 
-
 We will be analyzing California counties’ poverty levels with California counties, hospitals, and performance level based on hospital procedures performed between 2016-2020 to determine and evaluate if poverty levels correlate with hospital performance and how impactful it is.
 
 # Expectations

@@ -27,7 +27,7 @@ We will be analyzing California counties’ poverty levels with California count
 
 # Team Members
 	1.  Abhipsha Chatterjee
-	2.  Denise Farias
+	2.  Denisse Farias
 	3.  Natasha Nutley
 	4.  April Reyes
 

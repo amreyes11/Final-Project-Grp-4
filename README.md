@@ -48,7 +48,7 @@ We will be analyzing California counties’ poverty levels with California count
 
 
 # Questions our team plans to answer
-* How will California County hospitals perform when comparing a hospitals risk-adjusted outcome measure?
+* How will California County hospitals perform when comparing hospital ratings and the total number of adverse events?
 * How does a county’s percentage of poverty correlate to hospital procedure performance rating?
 
 

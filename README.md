@@ -48,7 +48,7 @@ We will be analyzing California counties’ poverty levels with California count
 * Reporting
 
 # Resources we will be using
-* Tableu
+* Tableau
 * Jupyter notebook/ Python
 * Mlenv for machine learning 
 * Time series evaluations

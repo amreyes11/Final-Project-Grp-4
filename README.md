@@ -74,7 +74,18 @@ We assessed the dataset for both hospital ratings and poverty levels and determi
 
 #  Results
 As demonstrated in the visualizations, we can conclude that:
+
 	* counties with higher cases of poverty show lower performance ratings of hospital procedures performed compared to hospitals in counties with less cases of poverty.
+	
 	*  higher number of adverse cases and a higher risk adjusted rate are seen in more poverty-ridden counties with worse hospital ratings than in less poverty-ridden counties.
+
+# Project Review
+Other factors that could potentially provide more insight into the data exploration phase and show a different outcome:  
+
+	1.	Social Determinants of the Health Theory Model
+	2.	Examining the levels of the following for practitioners:
+			*  Training 
+			*  Education
+
 
 

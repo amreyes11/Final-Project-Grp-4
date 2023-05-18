@@ -44,13 +44,36 @@ We will be analyzing California counties’ poverty levels with California count
 * Time series evaluations
 
 #  Data Exploration and Data Cleaning
-We assessed the dataset and determined several items were not required for our data exploration.  
-<img width="809" alt="DataCleanUp" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/1f88eac7-f82f-418d-8b0c-c5778cd0a5c6">
-<img width="703" alt="DataCleanUp3" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/969d151d-53f9-4eac-88eb-4e5bbf1d047e">
-<img width="710" alt="DataCleanUp4" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/b33db90a-e672-4a91-aae8-361c56ca3d42">
+We assessed the dataset for both hospital ratings and poverty levels and determined several items were not required in accordance to the expectations.  
 
-# Data Analysis
+	*  Determined connection between datasets
+	
+	*  Chose optimal areas for analysis from both datasets 
+	
+	*  Cleaned datasets according to focus points
+
+<img width="462" alt="Performance1" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/fdcb4a84-5af9-41c8-b0cb-4a3e6841a857">
+<img width="459" alt="Performance2" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/73d25d98-3262-4d11-bdcf-0d0edc655bdd">
 
 
+<img width="396" alt="HospitalRatings1" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/0e8a6a25-abb9-4535-a281-2eb61c6292f7">
+<img width="399" alt="HospitalRatings2" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/14014d2c-cd36-4a52-99c6-855caee0e976">
+
+
+# Data Analysis and Visualization
+
+<img width="565" alt="ExpectedClusterCAHospital" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/f299fead-518a-4c16-901a-4a8a0b29b66e">
+<img width="540" alt="BetterClusterCAHospitals" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/70ff60b2-bd14-4bbc-b7d5-c113058def56">
+<img width="598" alt="WorseClusterCAHospital" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/cad4b67d-cefc-4c90-b4ca-92ca7c1e450a">
+<img width="756" alt="AdverseCasesCA" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/b0537218-1b75-4b23-b0c1-0beffc5f1a3c">
+<img width="790" alt="PovertySummary" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/89d0dc76-331d-4681-9ef6-51bf7dfb1afe">
+<img width="807" alt="RiskAdjustedRate" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/bd1b0f89-d507-42d8-afe5-7dfa641db72b">
+<img width="635" alt="PovertySummaryCompare" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/8c5bfe6a-60e4-4903-aa1e-be2b01b0011b">
+<img width="760" alt="CACasesbyHouseholdIncome" src="https://github.com/amreyes11/Final-Project-Grp-4/assets/119356418/f6c59d78-c5e7-4a0a-aad3-e4fe2a407884">
+
+
+#  Results
+As demonstrated in the visualizations, we can conclude that counties with higher cases of poverty show lower performance ratings of hospital procedures performed compared to hospitals in counties with less cases of poverty.
+As demonstrated in the visualizations, we can conclude that higher number of adverse cases and a higher risk adjusted rate are seen in more poverty-ridden counties with worse hospital ratings than in less poverty-ridden counties.
 
 
